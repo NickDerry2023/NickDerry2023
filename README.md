@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @NickDerry2023
-- 👀 I’m interested in working at Cali Web Design as a Web Developer and Board Member.
-- 🌱 I’m currently learning C#, PHP, and Swift
-- 💞️ I’m looking to collaborate on Cali Panel and Merx
-- 📫 How to reach me by email at nickd@caliwebdesignservices.com or by phone at +1-(877)-597-7325
+- 👀 I’m interested in working at Nexure Solutions as a Web Developer and Board Member.
+- 🌱 I’m currently learning C#, PHP, JS, Python and Swift
+- 💞️ I’m looking to collaborate on Nexure Panel
+- 📫 How to reach me by email at nickd@nexuresolutions.com or by phone at +1-(877)-597-7325
 - 😄 Pronouns: He/Him
 
 <!---
